@@ -1,0 +1,12 @@
+version: '3'
+services:
+  linux1:
+    build: .
+    ports:
+      - "2233:22"
+      - "8870:80" 
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 5s
+        window: 120s

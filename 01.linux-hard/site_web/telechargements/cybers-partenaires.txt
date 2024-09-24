@@ -1,0 +1,20 @@
+Palo Alto Networks
+FireEye
+Symantec
+Fortinet
+Check
+CrowdStrike
+Trend Micro
+McAfee
+Sophos
+Kaspersky Lab
+Cisco
+Bitdefender
+Rapid7
+Carbon Black
+Proofpoint
+F-Secure
+ESET
+Darktrace
+SentinelOne
+SonicWall
